@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Snapshot backup script
+# https://github.com/gregrs-uk/snapshot-backup/
+
 # backup location on remote server
 # NB This path should not contain spaces, even if they are escaped
 DESTINATION="/mnt/Data/backup"
