@@ -9,8 +9,7 @@ LOGIN="user@192.168.1.10"
 EXCLUDE="/root/snapshot-backup/exclude.txt"
 # log dir on local machine
 LOGROOT="/var/log/snapshot-backup"
-
-# directories to backup
+# directories to backup, separated by spaces
 DIRS="/home/ /etc/ /root/ /var/log/"
 
 # ------ END OF CONFIGURATION VARIABLES ------
